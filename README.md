@@ -1,2 +1,3 @@
 # Exploratory-Data-Analysis-of-arrests-dataset
 The notebook does an EDA on the prison data set. 
+The dataset represents data on convicted criminals leaving prison, having served their time, and whether they are likely to re-offend and to be arrested again within 12 months of release. The explanatory features in the data have been renamed and recoded so that privacy is maintained and the focus is on interpreting and using the data objectively. The (single) target is binary-valued, identifying whether a given instance will reoffend or not. This “grouping” aspect is indicated by a set of features sharing the same initial letter, e.g., features a1, a2, a3 and a4 all relate to a single grouped attribute, but have meaning by themselves too.
